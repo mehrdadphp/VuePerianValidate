@@ -1,0 +1,29 @@
+{
+  "name": "vue-persian-validate",
+  "version": "1.0.0",
+  "description": "Vue Persian Validate Mobile, Email, Number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehrdadphp/VuePerianValidate.git"
+  },
+  "keywords": [
+    "Validate",
+    "Phone",
+    "Number",
+    "Persian",
+    "Validate",
+    "Email",
+    "Validate",
+    "Number"
+  ],
+  "author": "Mehrdad Salimi <mehrdad3na@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehrdadphp/VuePerianValidate/issues"
+  },
+  "homepage": "https://github.com/mehrdadphp/VuePerianValidate#readme"
+}
